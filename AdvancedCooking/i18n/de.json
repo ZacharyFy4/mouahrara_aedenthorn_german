@@ -1,0 +1,28 @@
+{
+	"new-recipe-x": "Du hast gelernt wie man {0} kocht!",
+	"cooking-failed": "Du hast es nicht geschafft, etwas Nützliches zu kochen...",
+	"ingredients": "Zutaten:",
+	"will-cook-1": "(wird {0} Gericht kochen)",
+	"will-cook-x": "(wird {0} Gerichte kochen)",
+	"plus-x-more": "und {0} weitere",
+	"cook": "Kochen",
+	"x-of-y": "{0} {1}",
+	"player": "Spieler",
+	"fridge-x": "Kühlschrank {0}",
+
+	// GMCM
+	"GMCM.ModEnabled.Name": "Mod aktiviert",
+	"GMCM.AllowUnknownRecipes.Name": "Unbekannte Rezepte erlauben",
+	"GMCM.LearnUnknownRecipes.Name": "Erlerne unbekannte Rezepte",
+	"GMCM.CookAllModKey.Name": "Cook All Mod Key",   // TODO
+	"GMCM.HoldCookedItem.Name": "Gekochtes Gericht halten",
+	"GMCM.ConsumeExtraIngredientsOnSucceed.Name": "Überschuss bei Erfolg vernichten",
+	"GMCM.ConsumeIngredientsOnFail.Name": "Zutaten beim Scheitern vernichten",
+	"GMCM.GiveTrashOnFail.Name": "Müll beim Scheitern geben",
+	"GMCM.GiveTrashOnFail.Tooltip": "Ob Müll beim Scheitern produziert werden soll. Kein Müll wird produziert, wenn die 'Zutaten beim Scheitern aufbrauchen' Option deaktiviert ist.",
+	"GMCM.ShowProductInfo.Name": "Produktinformationen anzeigen",
+	"GMCM.ShowCookTooltip.Name": "Kochen-Tooltip anzeigen",
+	"GMCM.ShowProductsInTooltip.Name": "Produkte im Tooltip anzeigen",
+	"GMCM.MaxItemsInTooltip.Name": "Max Items in Tooltip",
+	"GMCM.YOffset.Name": "Höhenversatz"
+}
