@@ -14,7 +14,7 @@
 	"GMCM.ModEnabled.Name": "Mod aktiviert",
 	"GMCM.AllowUnknownRecipes.Name": "Unbekannte Rezepte erlauben",
 	"GMCM.LearnUnknownRecipes.Name": "Erlerne unbekannte Rezepte",
-	"GMCM.CookAllModKey.Name": "Cook All Mod Key",   // TODO
+	"GMCM.CookAllModKey.Name": "'Alles Kochen'-Taste",
 	"GMCM.HoldCookedItem.Name": "Gekochtes Gericht halten",
 	"GMCM.ConsumeExtraIngredientsOnSucceed.Name": "Überschuss bei Erfolg vernichten",
 	"GMCM.ConsumeIngredientsOnFail.Name": "Zutaten beim Scheitern vernichten",
