@@ -1,9 +1,9 @@
 {
 	// GMCM
 	"GMCM.ModEnabled.Name": "Mod aktiviert",
-	"GMCM.MoveKeys.Name": "Move Keys",
-	"GMCM.DetachKeys.Name": "Detach Keys",
-	"GMCM.CloseKeys.Name": "Close Keys",
-	"GMCM.StrictKeybindings.Name": "Strict Keys Enabled",
-	"GMCM.StrictKeybindings_Tooltip": "Falls aktiviert, strict key mode ensures that only the designated keys are pressed. This allows performing default game actions associated with those keys (e.g., in the crafting menu, LeftShift + MouseLeft will move the menu, and LeftShift + MouseLeft + AnyOtherKey will craft 5 items at a time)."
+	"GMCM.MoveKeys.Name": "Bewegungstasten",
+	"GMCM.DetachKeys.Name": "Lösen-Tasten",
+	"GMCM.CloseKeys.Name": "Schließen-Taste",
+	"GMCM.StrictKeybindings.Name": "Strikter Tastenmodus",
+	"GMCM.StrictKeybindings_Tooltip": "Dies sorgt dafür, dass Menübewegungen nur geschehen, wenn nur die dafür fest definierten Tasten betätigt werden. Dies erlaubt es die regulären Spielaktionen durchzuführen, welche ebenfalls mit diesen Tasten ausgelöst werden (z.B., im Herstellungsmenü, ShiftLinks + MausLinks wird das Menü bewegen, und ShiftLinks + MausLinks + Andere Taste wird 5 Gegenstände auf einmal herstellen)."
 }
