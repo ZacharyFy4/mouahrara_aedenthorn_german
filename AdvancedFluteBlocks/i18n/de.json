@@ -1,0 +1,8 @@
+{
+	// GMCM
+	"GMCM.ModEnabled.Name": "Mod aktiviert",
+	"GMCM_SectionTitle_KeyBinds.Text": "Tastenbelegung",
+	"GMCM.PitchModKey.Name": "Pitch Mod Key",   // TODO
+	"GMCM.ToneModKey.Name": "Tone Mod Key",   // TODO
+	"GMCM.PitchStep.Name": "Tonhöhenschritte"
+}
