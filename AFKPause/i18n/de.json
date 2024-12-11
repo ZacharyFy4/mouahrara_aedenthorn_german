@@ -5,6 +5,6 @@
 	"GMCM.FreezeGame.Tooltip": "Standartmäßig friert diese Mod das Spiel ein, ähnlich als wenn ein Menü offen wäre. Falls diese Option deaktiviert ist werden Charakterbewegungen weiterlaufen, aber die Spieluhr pausiert, während der Spieler AFK ist.",
 	"GMCM.TicksTilAFK.Name": "Ticks bis zum AFK-Eintreten",
 	"GMCM.ShowAFKText.Name": "AFK Text anzeigen",
-	"GMCM.AFKText.Name": "AFK Text",
+	"GMCM.AFKText.Name": "AFK-Text",
 	"GMCM.WakeOnMouseMove.Name": "Bei Mausbewegung aufwachen"
 }
