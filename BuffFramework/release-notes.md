@@ -2,6 +2,18 @@
 
 # Release notes
 
+## 0.6.1-unofficial.11-mouahrara
+Released on 13 March, 2025, for SMAPI 4.1.0 or later.
+* Fixed Android compatibility 🔧
+
+## 0.6.1-unofficial.10-mouahrara
+Released on 7 January, 2025, for SMAPI 4.1.0 or later.
+* Fixed an issue where it was impossible to collapse due to over-exertion 🔧
+
+## 0.6.1-unofficial.9-mouahrara
+Released on 21 December, 2024, for SMAPI 4.1.0 or later.
+* Fixed `NullReferenceException` when the sound of a buff did not exist 🔧
+
 ## 0.6.1-unofficial.8-mouahrara
 Released on 9 December, 2024, for SMAPI 4.1.0 or later.
 * Added the **CurrentItem** field, alias **HeldItem**, to trigger a buff when an item or an item type is held by the player ✨

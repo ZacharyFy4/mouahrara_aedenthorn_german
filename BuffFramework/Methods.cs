@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using System.Net.Mail;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Newtonsoft.Json.Linq;
@@ -32,12 +31,12 @@ namespace BuffFramework
 			if (!Config.ModEnabled)
 				return;
 
-			foreach ((string, ICue) sound in soundBuffs.Values)
+			foreach ((_, ICue cue) in soundBuffs.Values)
 			{
-				if (sound.Item2.IsPlaying)
+				if (cue is not null && cue.IsPlaying)
 				{
-					sound.Item2.Pause();
-					pausedSounds.Add(sound.Item2);
+					cue.Pause();
+					pausedSounds.Add(cue);
 				}
 			}
 			if (Game1.player.isGlowing)

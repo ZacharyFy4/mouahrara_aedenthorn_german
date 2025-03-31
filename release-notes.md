@@ -2,6 +2,29 @@
 
 # Global release notes
 
+## 28 March 2025
+* Released Moolah Money Mod version [0.6.6-unofficial.2-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/MoolahMoneyMod/release-notes.md#066-unofficial2-mouahrara)
+
+## 27 March 2025
+* Released Moolah Money Mod version [0.6.6-unofficial.1-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/MoolahMoneyMod/release-notes.md#066-unofficial1-mouahrara)
+* Released Overworld Chests version [0.5.4-unofficial.3-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/OverworldChests/release-notes.md#054-unofficial3-mouahrara)
+* Released Personal Traveling Cart version [0.3.6-unofficial.1-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/PersonalTravelingCart/release-notes.md#036-unofficial1-mouahrara)
+
+## 13 March 2025
+* Released Buff Framework version [0.6.1-unofficial.11-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/BuffFramework/release-notes.md#061-unofficial11-mouahrara)
+* Released Craft and Build from Containers version [0.3.2-unofficial.3-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/CraftAndBuildFromContainers/release-notes.md#032-unofficial3-mouahrara)
+
+## 8 March 2025
+* Released All Chests Menu version [0.3.2-unofficial.5-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/AllChestsMenu/release-notes.md#032-unofficial5-mouahrara)
+* Released Connected Garden Pots version [0.1.1-unofficial.2-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/ConnectedGardenPots/release-notes.md#011-unofficial2-mouahrara)
+* Released Craft and Build from Containers version [0.3.2-unofficial.2-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/CraftAndBuildFromContainers/release-notes.md#032-unofficial2-mouahrara)
+
+## 7 January 2025
+* Released Buff Framework version [0.6.1-unofficial.10-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/BuffFramework/release-notes.md#061-unofficial10-mouahrara)
+
+## 21 December 2024
+* Released Buff Framework version [0.6.1-unofficial.9-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/BuffFramework/release-notes.md#061-unofficial9-mouahrara)
+
 ## 9 December 2024
 * Released Buff Framework version [0.6.1-unofficial.8-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/BuffFramework/release-notes.md#061-unofficial8-mouahrara)
 * Released Custom Starter Package version [0.2.1-unofficial.3-mouahrara](https://github.com/mouahrara/aedenthorn/blob/master/CustomStarterPackage/release-notes.md#021-unofficial3-mouahrara)
@@ -209,6 +232,7 @@
   * MultiStoryFarmhouse ➜ MultipleFloorFarmhouse
   * OutdoorButterflyHutch ➜ CraftableButterflyHutches 
   * ParrotPerch ➜ AnimatedParrotAndPerch  
+  * PersonalTravellingCart ➜ PersonalTravelingCart
   * PetBed ➜ CustomPetBeds
   * PlaceShaft ➜ PlaceableMineShaft
   * PlantAll ➜ PlantAndFertilizeAll
