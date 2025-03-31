@@ -1,0 +1,12 @@
+{
+	"item.jungle-parrot-perch.name": "Dschungel-Papageien-Sitzstange",
+	"item.jungle-parrot-perch.description": "Eine Sitzstange für Papageien im Dschungel-Thema.",
+	"item.stone-parrot-perch.name": "Steinerne Papageien-Sitzstange",
+	"item.stone-parrot-perch.description": "Eine steinerne Sitzstange für Papageien.",
+	"item.wooden-parrot-perch.name": "Hölzerne Papageien-Sitzstange",
+	"item.wooden-parrot-perch.description": "Eine hölzerne Sitzstange für Papageien.",
+
+	// GMCM
+	"GMCM.DropGiftChance.Name": "Geschenk Chance",
+	"GMCM.DropGiftChance.Tooltip": "Die Wahrscheinlichkeit (in Prozent), mit welcher ein Papagei ein Geschenk geben wird, nachdem es mit Samen gefüttert wurde."
+}
